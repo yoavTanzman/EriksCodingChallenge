@@ -90,7 +90,23 @@ order Server
 <b> Extra security layer added by creating my own convertors AES algorithm</b>
 
 
-For examples you can see the added screenshoots from postMan
+For examples you can see the added screenshoots from postman
+
+
+
+
+------------------------------------------
+
+Unit testing 
+
+
+Unit testing was only added to the authentication service, 
+
+Mockito was used to test the controller layer 
+
+And unit for unit testing of the supporting methods. 
+
+
 
 
 
